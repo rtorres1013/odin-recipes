@@ -1,0 +1,22 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+h1, h2{
+    color: forestgreen;
+}
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+
+img{
+    width: 400px;
+    height: auto;
+    
+}
